@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: ergowijs-nl01b.mail.protection.outlook.com
+mx: facilitywijs-nl02b.y-v1.mx.microsoft
 max_age: 86401
